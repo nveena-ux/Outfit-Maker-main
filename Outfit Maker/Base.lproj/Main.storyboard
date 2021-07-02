@@ -498,16 +498,16 @@
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                     </textView>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k4y-rf-wNl">
-                                        <rect key="frame" x="65" y="514" width="202" height="190"/>
+                                        <rect key="frame" x="210" y="232" width="156" height="165"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <state key="normal" title="Button" image="Web_Photo_Editor-4-removebg-preview"/>
+                                        <state key="normal" title="Button" image="money"/>
                                         <connections>
                                             <action selector="darkMusic:" destination="86R-RL-qfx" eventType="touchUpInside" id="CYO-ea-ybj"/>
                                             <action selector="outSec:" destination="fvz-bc-FnZ" eventType="touchUpInside" id="I91-jK-Zb0"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleAspectFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nBP-v9-s1r">
-                                        <rect key="frame" x="199" y="486" width="175" height="200"/>
+                                        <rect key="frame" x="131" y="405" width="273" height="283"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal" title="Button" image="Web_Photo_Editor-22-removebg-preview-2"/>
                                         <connections>
@@ -572,6 +572,7 @@
         <image name="d1" width="447" height="558"/>
         <image name="dark academia page" width="512" height="689"/>
         <image name="darkbutton" width="1080" height="1080"/>
+        <image name="money" width="494" height="505"/>
         <image name="unnamed-3" width="474" height="474"/>
         <image name="y2kbutton" width="1080" height="1080"/>
         <systemColor name="labelColor">
