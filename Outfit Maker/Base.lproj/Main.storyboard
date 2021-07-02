@@ -460,11 +460,11 @@
                                         <color key="highlightedColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="esi-xo-vyU">
-                                        <rect key="frame" x="54" y="394" width="146" height="39"/>
+                                        <rect key="frame" x="54" y="394" width="167" height="39"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.75470791410000004" green="0.41925890760000001" blue="0.86087566609999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <attributedString key="attributedText">
-                                            <fragment content="High- End">
+                                            <fragment content="$High- End">
                                                 <attributes>
                                                     <font key="NSFont" size="31" name="BradleyHandITCTT-Bold"/>
                                                     <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
@@ -546,7 +546,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="zrh-Th-RNV"/>
+        <segue reference="9QY-xO-JL9"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="1" width="1080" height="1920"/>
