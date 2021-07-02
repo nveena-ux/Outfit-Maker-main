@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Elsie_Mary_Janes_-_Brown___Plush_Plush___36-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
